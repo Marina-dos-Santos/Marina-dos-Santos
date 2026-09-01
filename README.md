@@ -1,10 +1,10 @@
 ## Olá, eu sou Marina dos Santos 💻 👋
 
 
-## 📚 Formação
-🎓 Bacharel em Ciência da Computação
-💻 Em transição para Desenvolvimento Front-End (Alura)
-📚 estudando HTML, CSS, JavaScript...
+## 📚 Formação  
+🎓 Bacharel em Ciência da Computação  
+💻 Em transição para Desenvolvimento Front-End (Alura)  
+📚 estudando HTML, CSS, JavaScript...  
 Aprofundando meus conhecimentos em desenvolvimento web e construindo projetos para meu portfólio.
 
 
