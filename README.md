@@ -27,14 +27,14 @@ Acessibilidade e desenvolvimento responsivo
 Website responsivo desenvolvido para uma profissional da área de psicologia.  
 Tecnologias: HTML5, CSS3 e JavaScript  
 Conceitos praticados: Estrutura semântica | Responsividade | Flexbox | Media Queries | Navegação | Organização de código | Links para WhatsApp, telefone, e-mail e Instagram.  
-🔗 [Ver projeto] (https://marina-dos-santos.github.io/leticia_maciel/)
+🔗 [Ver projeto](https://marina-dos-santos.github.io/leticia_maciel/)
 
 
 ## Tecboard
 Website desenvolvido durante o curso da Alura.  
 Tecnologias: HTML5 e CSS3  
 Conceitos praticados: Estrutura semântica | Responsividade  | Media Queries | Organização de código.  
-🔗 [Ver projeto] (https://marina-dos-santos.github.io/tecboard/)
+🔗 [Ver projeto](https://marina-dos-santos.github.io/tecboard/)
 
 
 ## Contatos
